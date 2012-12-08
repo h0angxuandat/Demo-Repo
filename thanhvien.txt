@@ -2,8 +2,5 @@ vu tuan dung
 tran thai duong
 hoang xuan dat
 le xuan duong
-<<<<<<< HEAD
-b
-=======
+
 c
->>>>>>> update
